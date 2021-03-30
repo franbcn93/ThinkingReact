@@ -1,3 +1,7 @@
+# If you want see the result... watch this link:
+
+[Click here to see the result](https://franbcn93.github.io/ThinkingReact/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
