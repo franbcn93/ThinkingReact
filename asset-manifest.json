@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ThinkingReact/static/css/main.c7196841.chunk.css",
+    "main.js": "/ThinkingReact/static/js/main.37bb55c9.chunk.js",
+    "main.js.map": "/ThinkingReact/static/js/main.37bb55c9.chunk.js.map",
+    "runtime-main.js": "/ThinkingReact/static/js/runtime-main.e0ae62a3.js",
+    "runtime-main.js.map": "/ThinkingReact/static/js/runtime-main.e0ae62a3.js.map",
+    "static/js/2.8815e512.chunk.js": "/ThinkingReact/static/js/2.8815e512.chunk.js",
+    "static/js/2.8815e512.chunk.js.map": "/ThinkingReact/static/js/2.8815e512.chunk.js.map",
+    "static/js/3.4721783b.chunk.js": "/ThinkingReact/static/js/3.4721783b.chunk.js",
+    "static/js/3.4721783b.chunk.js.map": "/ThinkingReact/static/js/3.4721783b.chunk.js.map",
+    "index.html": "/ThinkingReact/index.html",
+    "static/css/main.c7196841.chunk.css.map": "/ThinkingReact/static/css/main.c7196841.chunk.css.map",
+    "static/js/2.8815e512.chunk.js.LICENSE.txt": "/ThinkingReact/static/js/2.8815e512.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0ae62a3.js",
+    "static/js/2.8815e512.chunk.js",
+    "static/css/main.c7196841.chunk.css",
+    "static/js/main.37bb55c9.chunk.js"
+  ]
+}
