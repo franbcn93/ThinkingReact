@@ -42,7 +42,8 @@ td {
   margin: 40px;
 }
 
-.barraBusqueda {
+.barraBusqueda,
+.filtroPrecio {
   margin: 20px;
   margin-left: 120px;
 }

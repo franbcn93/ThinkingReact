@@ -9,6 +9,7 @@ export default class SearchBar extends Component {
 
   cambioFiltroTexto(e) {
     this.props.filtroTextoCambio(e.target.value);
+    // console.log(e.target.value);
   }
 
   cambioStock(e) {

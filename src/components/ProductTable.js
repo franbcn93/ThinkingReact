@@ -6,15 +6,23 @@ export default class ProductTable extends Component {
   render() {
     const filtroTexto = this.props.filtroTexto;
     const inStockOnly = this.props.inStockOnly;
+    const filtroPrecio = this.props.filtroPrecio;
 
     const lista = [];
     let ultimaCategoria = null;
+    const convertInt = parseInt(filtroPrecio);
 
     this.props.productos.forEach((producto) => {
       if (producto.name.indexOf(filtroTexto) === -1) {
         return;
       }
       if (inStockOnly && !producto.stocked) {
+        return;
+      }
+      const precio = producto.price.split(".", 1);
+      const stringPrecio = precio.toString().split("$");
+      const intPrecio = parseInt(stringPrecio[1]);
+      if (convertInt > intPrecio) {
         return;
       }
       if (producto.category !== ultimaCategoria) {
