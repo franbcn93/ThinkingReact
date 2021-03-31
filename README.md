@@ -2,6 +2,9 @@
 
 [Click here to see the result](https://franbcn93.github.io/ThinkingReact/)
 
+![Img_001](https://user-images.githubusercontent.com/24720815/113116141-74fe8700-920d-11eb-8869-1cb3c6ef3af5.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
