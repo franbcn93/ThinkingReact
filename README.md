@@ -1,4 +1,4 @@
-# If you want see the result... watch this link:
+# If you want see the result... visit this link:
 
 [Click here to see the result](https://franbcn93.github.io/ThinkingReact/)
 
